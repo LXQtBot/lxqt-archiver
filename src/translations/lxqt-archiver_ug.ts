@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="id">
+<TS version="2.1" language="ug">
 <context>
     <name>AboutDialog</name>
     <message>
         <location filename="../about.ui" line="14"/>
         <source>About</source>
-        <translation>Tentang</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../about.ui" line="34"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:16pt; font-weight:600;&quot;&gt;LXQt Archiver&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:16pt; font-weight:600;&quot;&gt;LXQt Archiver&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../about.ui" line="57"/>
         <source>A simple and desktop-agnostic Qt file archiver</source>
-        <translation>Pengarsip file Qt yang sederhana dan desktop-agnostik</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../about.ui" line="67"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/lxqt/lxqt-archiver&quot;&gt;https://github.com/lxqt/lxqt-archiver&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
 </source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/lxqt/lxqt-archiver&quot;&gt;https://github.com/lxqt/lxqt-archiver&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
-</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../about.ui" line="91"/>
         <source>Authors</source>
-        <translation>Pembuat</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../about.ui" line="100"/>
@@ -39,18 +38,12 @@ LXQt Archiver is derived from the following programs:
 * Engrampa of MATE desktop
 * File Roller of Gnome desktop
 </source>
-        <translation>Pemrograman:
-* Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;
-
-LXQt Archiver dibuat bedasarkan dari program berikut ini:
-* Engrampa di MATE desktop
-* File Roller di Gnome desktop
-</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../about.ui" line="117"/>
         <source>License</source>
-        <translation>Lisensi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../about.ui" line="126"/>
@@ -71,23 +64,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.</source>
-        <translation>LXQt Archiver
-
-Hak Cipta (C) 2020 Tim LXQt
-
-Program ini adalah perangkat lunak bebas; Anda dapat mendistribusikannya dan/atau
-memodifikasinya sesuai dengan syarat-syarat Lisensi Umum Publik GNU
-yang diterbitkan oleh Yayasan Perangkat Lunak Bebas; baik versi 2
-dari Lisensi tersebut, maupun (sesuai pilihan Anda) versi mana pun yang lebih baru.
-
-Program ini didistribusikan dengan harapan akan bermanfaat,
-tetapi TANPA JAMINAN APAPUN; bahkan tanpa jaminan tersirat
-tentang KELAYAKAN PERDAGANGAN atau KESESUAIAN UNTUK TUJUAN TERTENTU. Lihat
-Lisensi Umum Publik GNU untuk rincian lebih lanjut.
-
-Anda seharusnya telah menerima salinan Lisensi Umum Publik GNU
-bersama dengan program ini; jika tidak, kirimkan surat ke Free Software
-Foundation, Inc., 51 Franklin Street, Lantai 5, Boston, MA  02110-1301, AS.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -95,17 +72,17 @@ Foundation, Inc., 51 Franklin Street, Lantai 5, Boston, MA  02110-1301, AS.</tra
     <message>
         <location filename="../archiver.cpp" line="66"/>
         <source>Archive type not supported.</source>
-        <translation>Jenis Arsip tidak didukung.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../archiver.cpp" line="310"/>
         <source>*%1 files (*%1)</source>
-        <translation>*%1 berkas (*%1)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../archiver.cpp" line="314"/>
         <source>All supported formats</source>
-        <translation>Seluruh Format yang didukung</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -113,42 +90,42 @@ Foundation, Inc., 51 Franklin Street, Lantai 5, Boston, MA  02110-1301, AS.</tra
     <message>
         <location filename="../archivererror.cpp" line="25"/>
         <source>Failed to execute the command.</source>
-        <translation>Gagal mengeksekusi perintah.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../archivererror.cpp" line="28"/>
         <source>Command is not found.</source>
-        <translation>Perintah tidak ditemukan.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../archivererror.cpp" line="31"/>
         <source>The command exited abnormally.</source>
-        <translation>Perintah keluar secara abnormal.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../archivererror.cpp" line="34"/>
         <source>Password is required.</source>
-        <translation>Password dibutuhkan.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../archivererror.cpp" line="37"/>
         <source>Missing volume.</source>
-        <translation>Volume tidak diketemukan.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../archivererror.cpp" line="40"/>
         <source>Bad charset.</source>
-        <translation>Charset buruk.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../archivererror.cpp" line="43"/>
         <source>Unsupported file format.</source>
-        <translation>Format arsip tidak didukung.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../archivererror.cpp" line="46"/>
         <source>Unknown errors happened.</source>
-        <translation>Kesalahan tak dikenal terjadi.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -156,22 +133,22 @@ Foundation, Inc., 51 Franklin Street, Lantai 5, Boston, MA  02110-1301, AS.</tra
     <message>
         <location filename="../create.ui" line="26"/>
         <source> MiB</source>
-        <translation> MiB</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../create.ui" line="36"/>
         <source>Split into volumes of</source>
-        <translation>Bagi menjadi volume dari</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../create.ui" line="43"/>
         <source>Password:</source>
-        <translation>Kata sandi:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../create.ui" line="50"/>
         <source>Encrypt the file list too</source>
-        <translation>Enkripsi daftar berkasnya juga</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -179,12 +156,12 @@ Foundation, Inc., 51 Franklin Street, Lantai 5, Boston, MA  02110-1301, AS.</tra
     <message>
         <location filename="../createfiledialog.cpp" line="12"/>
         <source>Create Archive</source>
-        <translation>Buat Arsip</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../createfiledialog.cpp" line="14"/>
         <source>All files (*)</source>
-        <translation>Semua berkas (*)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -192,37 +169,37 @@ Foundation, Inc., 51 Franklin Street, Lantai 5, Boston, MA  02110-1301, AS.</tra
     <message>
         <location filename="../extract.ui" line="23"/>
         <source>Extract</source>
-        <translation>Ekstrak</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../extract.ui" line="29"/>
         <source>E&amp;xtract all files</source>
-        <translation>Ekstrak semua berkas</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../extract.ui" line="36"/>
         <source>Ex&amp;tract selected files</source>
-        <translation>Ekstrak berkas terpilih</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../extract.ui" line="59"/>
         <source>Actions</source>
-        <translation>Aksi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../extract.ui" line="65"/>
         <source>Re-create folders</source>
-        <translation>Buat kembali folder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../extract.ui" line="75"/>
         <source>Overwrite existing files</source>
-        <translation>Timpa berkas yang ada</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../extract.ui" line="82"/>
         <source>Do not extract older files</source>
-        <translation>Jangan mengekstrak file yang lebih lama</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -230,12 +207,12 @@ Foundation, Inc., 51 Franklin Street, Lantai 5, Boston, MA  02110-1301, AS.</tra
     <message>
         <location filename="../extractfiledialog.cpp" line="11"/>
         <source>Extract</source>
-        <translation>Ekstrak</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../extractfiledialog.cpp" line="13"/>
         <source>All files (*)</source>
-        <translation>Semua berkas (*)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -244,423 +221,423 @@ Foundation, Inc., 51 Franklin Street, Lantai 5, Boston, MA  02110-1301, AS.</tra
         <location filename="../mainwindow.ui" line="14"/>
         <location filename="../mainwindow.cpp" line="328"/>
         <source>File Archiver</source>
-        <translation>Pengarsip file</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="62"/>
         <source>Filter Files...</source>
-        <translation>Saring Berkas...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="86"/>
         <source>&amp;File</source>
-        <translation>&amp;Berkas</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="101"/>
         <source>&amp;Edit</source>
-        <translation>Sunting</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="120"/>
         <source>&amp;View</source>
-        <translation>&amp;Lihat</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="124"/>
         <source>&amp;Icon Size</source>
-        <translation>Ukuran Ikon</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="152"/>
         <source>&amp;Help</source>
-        <translation>Bantuan</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="163"/>
         <source>Main Toolbar</source>
-        <translation>Toolbar Utama</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="191"/>
         <source>&amp;About</source>
-        <translation>&amp;Tentang</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="200"/>
         <source>&amp;New</source>
-        <translation>Baru</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="203"/>
         <source>Ctrl+N</source>
-        <translation>Ctrl+N</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="212"/>
         <source>&amp;Open</source>
-        <translation>Buka</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="215"/>
         <source>Ctrl+O</source>
-        <translation>Ctrl+O</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="223"/>
         <source>Save &amp;As</source>
-        <translation>Simpan Seb&amp;agai</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="226"/>
         <source>Ctrl+Shift+S</source>
-        <translation>Ctrl+Shift+S</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="231"/>
         <source>&amp;Extract</source>
-        <translation>Ekstrak</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="236"/>
         <source>&amp;Test</source>
-        <translation>&amp;Tes</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="239"/>
         <source>Ctrl+T</source>
-        <translation>Ctrl+T</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="251"/>
         <source>&amp;Properties</source>
-        <translation>&amp;Properti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="254"/>
         <source>Alt+Return</source>
-        <translation>Alt+Return</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="263"/>
         <source>&amp;Close</source>
-        <translation>Tutup</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="266"/>
         <source>Ctrl+Q</source>
-        <translation>Ctrl+Q</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="274"/>
         <source>Cu&amp;t</source>
-        <translation>Potong</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="277"/>
         <source>Ctrl+X</source>
-        <translation>Ctrl+X</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="285"/>
         <source>&amp;Copy</source>
-        <translation>Salin</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="288"/>
         <source>Ctrl+C</source>
-        <translation>Ctrl+C</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="296"/>
         <source>&amp;Paste</source>
-        <translation>Tem&amp;pel</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="299"/>
         <source>Ctrl+V</source>
-        <translation>Ctrl+V</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="307"/>
         <source>&amp;Rename</source>
-        <translation>Ganti Nama</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="310"/>
         <source>F2</source>
-        <translation>F2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="319"/>
         <source>&amp;Delete</source>
-        <translation>Hapus</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="322"/>
         <source>Del</source>
-        <translation>Del</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="331"/>
         <source>&amp;Select All</source>
-        <translation>Pilih &amp;Semua</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="334"/>
         <source>Ctrl+A</source>
-        <translation>Ctrl+A</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="342"/>
         <source>&amp;Find</source>
-        <translation>Cari</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="345"/>
         <location filename="../mainwindow.ui" line="464"/>
         <source>Ctrl+F</source>
-        <translation>Ctrl+F</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="350"/>
         <source>&amp;Add Files</source>
-        <translation>T&amp;ambah Berkas</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="355"/>
         <source>Add F&amp;older</source>
-        <translation>Tambah F&amp;older</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="364"/>
         <source>Pass&amp;word</source>
-        <translation>Pass&amp;word</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="375"/>
         <source>&amp;Toolbar</source>
-        <translation>&amp;Toolbar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="386"/>
         <source>&amp;Statusbar</source>
-        <translation>&amp;Statusbar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="397"/>
         <source>&amp;Directory Tree</source>
-        <translation>Pohon &amp;Direktori</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="408"/>
         <source>S&amp;how as Folder</source>
-        <translation>Tampilkan sebagai Folder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="411"/>
         <source>Ctrl+Shift+D</source>
-        <translation>Ctrl+Shift+D</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="419"/>
         <source>Show &amp;All Files</source>
-        <translation>Tampilk&amp;an Semua Berkas</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="422"/>
         <source>Ctrl+Shift+A</source>
-        <translation>Ctrl+Shift+A</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="431"/>
         <source>St&amp;op</source>
-        <translation>Berhenti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="434"/>
         <source>Esc</source>
-        <translation>Esc</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="443"/>
         <source>&amp;Reload</source>
-        <translation>Muat Ulang</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="446"/>
         <source>F5</source>
-        <translation>F5</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="451"/>
         <source>Filename &amp;Encoding</source>
-        <translation>Pengkod&amp;ean Nama Bekas</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="456"/>
         <source>&amp;View Selected Items</source>
-        <translation>Lihat Item yang Dipilih</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="461"/>
         <source>&amp;Filter</source>
-        <translation>&amp;Filter</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="472"/>
         <source>&amp;Expand</source>
-        <translation>Perluas</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="475"/>
         <source>Ctrl+Shift+E</source>
-        <translation>Ctrl+Shift+E</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="486"/>
         <source>Ctrl+Shift+C</source>
-        <translation>Ctrl+Shift+C</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="483"/>
         <source>&amp;Collapse</source>
-        <translation>Ciutkan</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="494"/>
         <source>16 px</source>
-        <translation>16 px</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="502"/>
         <source>24 px</source>
-        <translation>24 px</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="510"/>
         <source>32 px</source>
-        <translation>32 px</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="518"/>
         <source>48 px</source>
-        <translation>48 px</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="373"/>
         <location filename="../mainwindow.cpp" line="403"/>
         <location filename="../mainwindow.cpp" line="437"/>
         <source>All files (*)</source>
-        <translation>Semua berkas (*)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="408"/>
         <location filename="../mainwindow.cpp" line="442"/>
         <source>Add only if &amp;newer</source>
-        <translation>Tambahkan ha&amp;nya jika lebih baru</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="467"/>
         <source>Confirm</source>
-        <translation>Konfirmasi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="467"/>
         <source>Are you sure you want to delete selected files?</source>
-        <translation>Apakah anda yakin ingin menghapus berkas terpilih?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="769"/>
         <source>Version: %1</source>
-        <translation>Versi: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="878"/>
         <source>%p %</source>
-        <translation>%p %</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="982"/>
         <source>Success</source>
-        <translation>Berhasil</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="982"/>
         <source>No errors have been found.</source>
-        <translation>Tidak ada kesalahan yang ditemukan.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="960"/>
         <location filename="../mainwindow.cpp" line="1020"/>
         <source>Error</source>
-        <translation>Kesalahan</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="371"/>
         <source>Open</source>
-        <translation>Buka</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="401"/>
         <source>Add Files</source>
-        <translation>Tambahkan Berkas</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="434"/>
         <source>Add Folder</source>
-        <translation>Tambahkan Folder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1050"/>
         <source>N/A</source>
-        <translation>N/A</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1054"/>
         <source>Uncompressed Size:</source>
-        <translation>Ukuran tak terkompres:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1056"/>
         <source>Compression Ratio:</source>
-        <translation>Rasio kompresi:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1075"/>
         <source>Link to</source>
-        <translation>Tautkan ke</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1114"/>
         <source>File name</source>
-        <translation>Nama berkas</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1115"/>
         <source>File Type</source>
-        <translation>Jenis Berkas</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1116"/>
         <source>File Size</source>
-        <translation>Ukuran Berkas</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1117"/>
         <source>Modified</source>
-        <translation>Dimodifikasi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1118"/>
         <source>Encrypted</source>
-        <translation>Terenkripsi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <location filename="../mainwindow.cpp" line="1145"/>
         <source>%n file(s)</source>
-        <translation>
-            <numerusform>%n berkas</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -670,28 +647,28 @@ Foundation, Inc., 51 Franklin Street, Lantai 5, Boston, MA  02110-1301, AS.</tra
         <location filename="../passworddialog.ui" line="14"/>
         <location filename="../passworddialog.cpp" line="60"/>
         <source>Password</source>
-        <translation>Kata sandi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../passworddialog.ui" line="20"/>
         <source>Encrypt the file list</source>
-        <translation>&amp;Enkripsi daftar berkas</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../passworddialog.ui" line="34"/>
         <source>Show password</source>
-        <translation>Tampilkan kata sandi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../passworddialog.ui" line="48"/>
         <location filename="../passworddialog.cpp" line="60"/>
         <source>Password:</source>
-        <translation>Kata sandi:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../passworddialog.ui" line="61"/>
         <source>&lt;i&gt;&lt;b&gt;Note:&lt;/b&gt; the password will be used to encrypt files you add to the current archive, and to decrypt files you extract from the current archive. When the archive is closed the password will be deleted.&lt;/i&gt;</source>
-        <translation>&lt;i&gt;&lt;b&gt;Catatan:&lt;/b&gt; kata sandi akan digunakan untuk mengenkripsi file yang Anda tambahkan ke arsip saat ini, dan untuk mendekripsi file yang Anda ekstrak dari arsip saat ini. Saat arsip di tutup kata sandi akan terhapus.&lt;/i&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -699,12 +676,12 @@ Foundation, Inc., 51 Franklin Street, Lantai 5, Boston, MA  02110-1301, AS.</tra
     <message>
         <location filename="../progressdialog.ui" line="14"/>
         <source>Progress</source>
-        <translation>Progres</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../progressdialog.cpp" line="16"/>
         <source>%p %</source>
-        <translation>%p %</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -713,162 +690,162 @@ Foundation, Inc., 51 Franklin Street, Lantai 5, Boston, MA  02110-1301, AS.</tra
         <location filename="../main.cpp" line="248"/>
         <location filename="../main.cpp" line="300"/>
         <source>Error</source>
-        <translation>Kesalahan</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="6"/>
         <source>7-Zip (.7z)</source>
-        <translation>7-Zip (.7z)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="7"/>
         <source>Tar compressed with 7z (.tar.7z)</source>
-        <translation>Tar dikompres dengan 7z (.tar.7z)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="8"/>
         <source>Ace (.ace)</source>
-        <translation>Ace (.ace)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="9"/>
         <source>Ar (.a)</source>
-        <translation>Ar (.a)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="10"/>
         <source>Ar (.ar)</source>
-        <translation>Ar (.ar)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="11"/>
         <source>Arj (.arj)</source>
-        <translation>Arj (.arj)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="12"/>
         <source>Tar compressed with bzip2 (.tar.bz2)</source>
-        <translation>Tar dikompres dengan bzip2 (.tar.bz2)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="13"/>
         <source>Tar compressed with bzip (.tar.bz)</source>
-        <translation>Tar dikompres dengan bzip (.tar.bz)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="14"/>
         <source>Cabinet (.cab)</source>
-        <translation>Cabinet (.cab)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="15"/>
         <source>Rar Archived Comic Book (.cbr)</source>
-        <translation>Rar Archived Comic Book (.cbr)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="16"/>
         <source>Zip Archived Comic Book (.cbz)</source>
-        <translation>Zip Archived Comic Book (.cbz)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="17"/>
         <source>Tar compressed with gzip (.tar.gz)</source>
-        <translation>Tar dikompres dengan gzip (.tar.gz)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="18"/>
         <source>Ear (.ear)</source>
-        <translation>Ear (.ear)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="19"/>
         <source>Self-extracting zip (.exe)</source>
-        <translation>Zip mengekstrak sendiri (.exe)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="20"/>
         <source>Jar (.jar)</source>
-        <translation>Jar (.jar)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="21"/>
         <source>Lha (.lzh)</source>
-        <translation>Lha (.lzh)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="22"/>
         <source>Lrzip (.lrz)</source>
-        <translation>Lrzip (.lrz)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="23"/>
         <source>Tar compressed with lrzip (.tar.lrz)</source>
-        <translation>Tar dikompres dengan lrzip (.tar.lrz)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="24"/>
         <source>Tar compressed with lzip (.tar.lz)</source>
-        <translation>Tar dikompres dengan lzip (.tar.lz)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="25"/>
         <source>Tar compressed with lzma (.tar.lzma)</source>
-        <translation>Tar dikompres dengan lzma (.tar.lzma)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="26"/>
         <source>Tar compressed with lzop (.tar.lzo)</source>
-        <translation>Tar dikompres dengan lzop (.tar.lzo)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="27"/>
         <source>Windows Imaging Format (.wim)</source>
-        <translation>Windows Imaging Format (.wim)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="28"/>
         <source>Rar (.rar)</source>
-        <translation>Rar (.rar)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="29"/>
         <source>Tar uncompressed (.tar)</source>
-        <translation>Tar tidak dikompres (.tar)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="30"/>
         <source>Tar compressed with compress (.tar.Z)</source>
-        <translation>Tar dikompres dengan compress (.tar.Z)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="31"/>
         <source>War (.war)</source>
-        <translation>War (.war)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="32"/>
         <source>Xz (.xz)</source>
-        <translation>Xz (.xz)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="33"/>
         <source>Tar compressed with xz (.tar.xz)</source>
-        <translation>Tar dikompres dengan xz (.tar.xz)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="34"/>
         <source>Tar compressed with zstd (.tar.zst)</source>
-        <translation>Tar dikompresi dengan zstd (.tar.zst)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="35"/>
         <source>Zoo (.zoo)</source>
-        <translation>Zoo (.zoo)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="36"/>
         <source>Zip (.zip)</source>
-        <translation>Zip (.zip)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="39"/>
@@ -876,7 +853,7 @@ Foundation, Inc., 51 Franklin Street, Lantai 5, Boston, MA  02110-1301, AS.</tra
         <location filename="../corestrs.h" line="62"/>
         <location filename="../main.cpp" line="240"/>
         <source>Adding file: </source>
-        <translation>Menambahkan berkas: </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="40"/>
@@ -884,68 +861,68 @@ Foundation, Inc., 51 Franklin Street, Lantai 5, Boston, MA  02110-1301, AS.</tra
         <location filename="../corestrs.h" line="64"/>
         <location filename="../main.cpp" line="282"/>
         <source>Extracting file: </source>
-        <translation>Mengekstrak berkas: </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="43"/>
         <source>%d %B %Y, %H:%M</source>
-        <translation>%d %B %Y, %H:%M</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="47"/>
         <location filename="../corestrs.h" line="63"/>
         <source>Removing file: </source>
-        <translation>Menghapus berkas: </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="48"/>
         <source>Deleting files from archive</source>
-        <translation>Menghapus berkas dari arsip</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="50"/>
         <source>Recompressing archive</source>
-        <translation>Mengompres ulang arsip</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="51"/>
         <source>Decompressing archive</source>
-        <translation>Mendekompres arsip</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="54"/>
         <source>File not found.</source>
-        <translation>Berkas tidak ditemukan.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="55"/>
         <source>Archive type not supported.</source>
-        <translation>Jenis Arsip tidak didukung.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="56"/>
         <source>Archive not found</source>
-        <translation>Arsip tak ditemukan</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="57"/>
         <source>You don&apos;t have the right permissions.</source>
-        <translation>Anda tidak memiliki hak akses.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="58"/>
         <source>This archive type cannot be modified</source>
-        <translation>Jenis arsip ini tidak dapat diubah</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="59"/>
         <source>You can&apos;t add an archive to itself.</source>
-        <translation>Anda tidak dapat menambahkan arsip ke dalam dirinya sendiri.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../corestrs.h" line="65"/>
         <source>Could not find the volume: %s</source>
-        <translation>Tidak dapat menemukan volume: %s</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
